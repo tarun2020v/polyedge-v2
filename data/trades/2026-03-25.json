@@ -1,0 +1,32 @@
+[
+  {
+    "id": "0x73473452a6dddcc6264bb358e9fecc575641b2b5f776d30addc789430ad9f911",
+    "loggedAt": "2026-03-25T22:09:59.152Z",
+    "question": "Dallas March 25: Will the highest temperature in Dallas be between 86-87°F on March 25?",
+    "city": "Dallas",
+    "date": "2026-03-25",
+    "station": "KDAL",
+    "forecastMethod": "observed",
+    "signalType": "VALUE",
+    "side": "YES",
+    "polyProb": 1.7,
+    "forecastProb": 43,
+    "adjEdge": 41.3,
+    "absEdge": 41.3,
+    "annEdge": 18089.4,
+    "observedMaxF": 84,
+    "observedMaxC": 28.9,
+    "localHour": 15,
+    "hoursToResolve": 20,
+    "url": "https://polymarket.com/event/highest-temperature-in-dallas-on-march-25-2026",
+    "marketUrl": "https://polymarket.com/event/highest-temperature-in-dallas-on-march-25-2026",
+    "paperStake": 2,
+    "paperSide": "YES",
+    "paperEntry": 0.017,
+    "resolved": true,
+    "resolvedPrice": 0,
+    "resolvedAt": "2026-03-29T10:01:51.284Z",
+    "outcome": "LOSS",
+    "paperPnl": -2
+  }
+]

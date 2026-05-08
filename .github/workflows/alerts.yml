@@ -1,0 +1,88 @@
+name: PolyEdge Alerts
+
+on:
+  schedule:
+    - cron: '*/20 * * * *'
+    - cron: '0 1 * * *'
+  workflow_dispatch:
+
+jobs:
+  fetch-and-alert:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@v3
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+          ref: main
+
+      - uses: actions/setup-node@v3
+        with:
+          node-version: '18'
+
+      - name: Fetch live weather data
+        run: node scripts/fetch-live.js
+        env:
+          SKIP_GIT_PUSH: 'true'
+
+      - name: Commit live data
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: 'Update live weather data [skip ci]'
+          file_pattern: 'data/live/*.json'
+
+      - name: Execute trades
+        run: node scripts/trade-executor.js
+        env:
+          LIVE_TRADING: ${{ secrets.LIVE_TRADING }}
+          POLYMARKET_PRIVATE_KEY: ${{ secrets.POLYMARKET_PRIVATE_KEY }}
+          BANKROLL: ${{ secrets.BANKROLL }}
+          MIN_EDGE: '15'
+          MIN_VOLUME: '5000'
+          MIN_HOUR: '13'
+          MAX_DAILY_SPEND: '50'
+          SCANNER_URL: ${{ secrets.SCANNER_URL }}
+
+      - name: Monitor positions
+        run: node scripts/position-monitor.js
+        env:
+          LIVE_TRADING: ${{ secrets.LIVE_TRADING }}
+          POLYMARKET_PRIVATE_KEY: ${{ secrets.POLYMARKET_PRIVATE_KEY }}
+
+      - name: Commit positions
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: 'Update positions [skip ci]'
+          file_pattern: 'data/positions/*.json'
+
+      - name: Send alerts
+        run: node scripts/alert.js
+        env:
+          TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
+          TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
+          SCANNER_URL: ${{ secrets.SCANNER_URL }}
+
+  update-historical:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    if: github.event_name == 'workflow_dispatch' || contains(github.event.schedule, '0 1')
+    steps:
+      - uses: actions/checkout@v3
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+          ref: main
+
+      - uses: actions/setup-node@v3
+        with:
+          node-version: '18'
+
+      - name: Update historical data
+        run: node scripts/update-historical.js
+
+      - name: Commit historical data
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: 'Update historical weather data [skip ci]'
+          file_pattern: 'data/historical/*.json'

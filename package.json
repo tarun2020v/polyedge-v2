@@ -1,0 +1,30 @@
+{
+  "name": "polyedge",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint",
+    "scan": "node -e \"fetch('http://localhost:3000/api/weather').then(r=>r.json()).then(j=>console.log(JSON.stringify(j,null,2)))\"",
+    "paper": "node scripts/paper-trade.js",
+    "fetch-live": "node scripts/fetch-live.js",
+    "executor": "node scripts/trade-executor.js"
+  },
+  "dependencies": {
+    "@polymarket/clob-client": "^5.8.1",
+    "dotenv": "^17.3.1",
+    "ethers": "^5.8.0",
+    "next": "14.2.3",
+    "react": "^18",
+    "react-dom": "^18"
+  },
+  "devDependencies": {
+    "eslint": "^8",
+    "eslint-config-next": "14.2.3"
+  },
+  "engines": {
+    "node": ">=20.10"
+  }
+}

@@ -1,0 +1,11 @@
+const e = require('./lib/exceedance');
+console.log('Hour 10:', e.deltaStats('KORD',10,3));
+console.log('P(gap=2 at h10):', e.exceedanceProb('KORD',10,3,2));
+console.log('Hour 14:', e.deltaStats('KORD',14,3));
+console.log('P(gap=2 at h14):', e.exceedanceProb('KORD',14,3,2));
+console.log('Hour 16:', e.deltaStats('KORD',16,3));
+console.log('P(gap=2 at h16):', e.exceedanceProb('KORD',16,3,2));
+console.log('Hour 17:', e.deltaStats('KORD',17,3));
+console.log('P(gap=2 at h17):', e.exceedanceProb('KORD',17,3,2));
+console.log('Hour 19:', e.deltaStats('KORD',19,3));
+console.log('P(gap=2 at h19):', e.exceedanceProb('KORD',19,3,2));

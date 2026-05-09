@@ -2,10 +2,10 @@
   "station": "KORD",
   "name": "Chicago",
   "units": "e",
-  "date": "2026-05-08",
-  "fetchedAt": "2026-05-08T23:14:53.272Z",
-  "localHour": 16,
-  "observedMax": 66,
-  "obsCount": 17,
-  "lastObsTime": "2026-05-08T21:51:00.000Z"
+  "date": "2026-05-09",
+  "fetchedAt": "2026-05-09T06:30:30.788Z",
+  "localHour": 0,
+  "observedMax": 56,
+  "obsCount": 1,
+  "lastObsTime": "2026-05-09T05:51:00.000Z"
 }

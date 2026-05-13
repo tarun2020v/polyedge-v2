@@ -3,7 +3,7 @@
   "name": "Seoul",
   "units": "m",
   "utcOffset": 9,
-  "fetchedAt": "2026-03-28T13:57:31.932Z",
+  "fetchedAt": "2026-05-13T04:49:29.571Z",
   "days": 90,
   "rows": [
     {
@@ -21844,6 +21844,246 @@
       "localHour": 20,
       "runningMax": 13,
       "finalMax": 13,
+      "delta": 0
+    },
+    {
+      "date": "20260512",
+      "month": 5,
+      "localHour": 6,
+      "runningMax": 16,
+      "finalMax": 21,
+      "delta": 5
+    },
+    {
+      "date": "20260512",
+      "month": 5,
+      "localHour": 6,
+      "runningMax": 16,
+      "finalMax": 21,
+      "delta": 5
+    },
+    {
+      "date": "20260512",
+      "month": 5,
+      "localHour": 7,
+      "runningMax": 16,
+      "finalMax": 21,
+      "delta": 5
+    },
+    {
+      "date": "20260512",
+      "month": 5,
+      "localHour": 7,
+      "runningMax": 16,
+      "finalMax": 21,
+      "delta": 5
+    },
+    {
+      "date": "20260512",
+      "month": 5,
+      "localHour": 8,
+      "runningMax": 16,
+      "finalMax": 21,
+      "delta": 5
+    },
+    {
+      "date": "20260512",
+      "month": 5,
+      "localHour": 8,
+      "runningMax": 17,
+      "finalMax": 21,
+      "delta": 4
+    },
+    {
+      "date": "20260512",
+      "month": 5,
+      "localHour": 9,
+      "runningMax": 17,
+      "finalMax": 21,
+      "delta": 4
+    },
+    {
+      "date": "20260512",
+      "month": 5,
+      "localHour": 9,
+      "runningMax": 17,
+      "finalMax": 21,
+      "delta": 4
+    },
+    {
+      "date": "20260512",
+      "month": 5,
+      "localHour": 10,
+      "runningMax": 18,
+      "finalMax": 21,
+      "delta": 3
+    },
+    {
+      "date": "20260512",
+      "month": 5,
+      "localHour": 10,
+      "runningMax": 19,
+      "finalMax": 21,
+      "delta": 2
+    },
+    {
+      "date": "20260512",
+      "month": 5,
+      "localHour": 11,
+      "runningMax": 19,
+      "finalMax": 21,
+      "delta": 2
+    },
+    {
+      "date": "20260512",
+      "month": 5,
+      "localHour": 11,
+      "runningMax": 20,
+      "finalMax": 21,
+      "delta": 1
+    },
+    {
+      "date": "20260512",
+      "month": 5,
+      "localHour": 12,
+      "runningMax": 20,
+      "finalMax": 21,
+      "delta": 1
+    },
+    {
+      "date": "20260512",
+      "month": 5,
+      "localHour": 12,
+      "runningMax": 20,
+      "finalMax": 21,
+      "delta": 1
+    },
+    {
+      "date": "20260512",
+      "month": 5,
+      "localHour": 13,
+      "runningMax": 20,
+      "finalMax": 21,
+      "delta": 1
+    },
+    {
+      "date": "20260512",
+      "month": 5,
+      "localHour": 13,
+      "runningMax": 20,
+      "finalMax": 21,
+      "delta": 1
+    },
+    {
+      "date": "20260512",
+      "month": 5,
+      "localHour": 14,
+      "runningMax": 21,
+      "finalMax": 21,
+      "delta": 0
+    },
+    {
+      "date": "20260512",
+      "month": 5,
+      "localHour": 14,
+      "runningMax": 21,
+      "finalMax": 21,
+      "delta": 0
+    },
+    {
+      "date": "20260512",
+      "month": 5,
+      "localHour": 15,
+      "runningMax": 21,
+      "finalMax": 21,
+      "delta": 0
+    },
+    {
+      "date": "20260512",
+      "month": 5,
+      "localHour": 15,
+      "runningMax": 21,
+      "finalMax": 21,
+      "delta": 0
+    },
+    {
+      "date": "20260512",
+      "month": 5,
+      "localHour": 16,
+      "runningMax": 21,
+      "finalMax": 21,
+      "delta": 0
+    },
+    {
+      "date": "20260512",
+      "month": 5,
+      "localHour": 16,
+      "runningMax": 21,
+      "finalMax": 21,
+      "delta": 0
+    },
+    {
+      "date": "20260512",
+      "month": 5,
+      "localHour": 17,
+      "runningMax": 21,
+      "finalMax": 21,
+      "delta": 0
+    },
+    {
+      "date": "20260512",
+      "month": 5,
+      "localHour": 17,
+      "runningMax": 21,
+      "finalMax": 21,
+      "delta": 0
+    },
+    {
+      "date": "20260512",
+      "month": 5,
+      "localHour": 18,
+      "runningMax": 21,
+      "finalMax": 21,
+      "delta": 0
+    },
+    {
+      "date": "20260512",
+      "month": 5,
+      "localHour": 18,
+      "runningMax": 21,
+      "finalMax": 21,
+      "delta": 0
+    },
+    {
+      "date": "20260512",
+      "month": 5,
+      "localHour": 19,
+      "runningMax": 21,
+      "finalMax": 21,
+      "delta": 0
+    },
+    {
+      "date": "20260512",
+      "month": 5,
+      "localHour": 19,
+      "runningMax": 21,
+      "finalMax": 21,
+      "delta": 0
+    },
+    {
+      "date": "20260512",
+      "month": 5,
+      "localHour": 20,
+      "runningMax": 21,
+      "finalMax": 21,
+      "delta": 0
+    },
+    {
+      "date": "20260512",
+      "month": 5,
+      "localHour": 20,
+      "runningMax": 21,
+      "finalMax": 21,
       "delta": 0
     }
   ]

@@ -3,9 +3,9 @@
   "name": "Dallas",
   "units": "e",
   "date": "2026-05-24",
-  "fetchedAt": "2026-05-24T20:11:28.201Z",
-  "localHour": 13,
-  "observedMax": 86,
-  "obsCount": 14,
-  "lastObsTime": "2026-05-24T18:53:00.000Z"
+  "fetchedAt": "2026-05-24T21:14:43.124Z",
+  "localHour": 14,
+  "observedMax": 88,
+  "obsCount": 15,
+  "lastObsTime": "2026-05-24T19:53:00.000Z"
 }

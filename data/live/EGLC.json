@@ -2,10 +2,10 @@
   "station": "EGLC",
   "name": "London",
   "units": "m",
-  "date": "2026-05-26",
-  "fetchedAt": "2026-05-26T23:36:13.419Z",
-  "localHour": 23,
-  "observedMax": 34,
-  "obsCount": 47,
-  "lastObsTime": "2026-05-26T22:20:00.000Z"
+  "date": "2026-05-27",
+  "fetchedAt": "2026-05-27T01:51:09.168Z",
+  "localHour": 2,
+  "observedMax": 24,
+  "obsCount": 4,
+  "lastObsTime": "2026-05-27T01:20:00.000Z"
 }

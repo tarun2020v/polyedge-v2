@@ -3,9 +3,9 @@
   "name": "Paris",
   "units": "m",
   "date": "2026-05-30",
-  "fetchedAt": "2026-05-30T00:14:03.284Z",
-  "localHour": 1,
+  "fetchedAt": "2026-05-30T04:30:21.446Z",
+  "localHour": 6,
   "observedMax": 25,
-  "obsCount": 4,
-  "lastObsTime": "2026-05-29T23:30:00.000Z"
+  "obsCount": 13,
+  "lastObsTime": "2026-05-30T04:00:00.000Z"
 }

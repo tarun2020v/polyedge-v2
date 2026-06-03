@@ -2,10 +2,10 @@
   "station": "VHHH",
   "name": "Hong Kong",
   "units": "m",
-  "date": "2026-06-02",
-  "fetchedAt": "2026-06-02T22:25:22.557Z",
-  "localHour": 23,
-  "observedMax": 33,
-  "obsCount": 48,
-  "lastObsTime": "2026-06-02T15:30:00.000Z"
+  "date": "2026-06-03",
+  "fetchedAt": "2026-06-03T00:15:57.248Z",
+  "localHour": 8,
+  "observedMax": 30,
+  "obsCount": 17,
+  "lastObsTime": "2026-06-03T00:00:00.000Z"
 }

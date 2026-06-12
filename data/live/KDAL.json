@@ -2,10 +2,10 @@
   "station": "KDAL",
   "name": "Dallas",
   "units": "e",
-  "date": "2026-06-11",
-  "fetchedAt": "2026-06-11T23:56:34.000Z",
-  "localHour": 17,
-  "observedMax": 93,
-  "obsCount": 21,
-  "lastObsTime": "2026-06-11T22:53:00.000Z"
+  "date": "2026-06-12",
+  "fetchedAt": "2026-06-12T09:04:37.447Z",
+  "localHour": 2,
+  "observedMax": 85,
+  "obsCount": 3,
+  "lastObsTime": "2026-06-12T07:53:00.000Z"
 }

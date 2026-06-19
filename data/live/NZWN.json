@@ -3,9 +3,9 @@
   "name": "Wellington",
   "units": "m",
   "date": "2026-06-19",
-  "fetchedAt": "2026-06-19T02:21:17.640Z",
-  "localHour": 15,
+  "fetchedAt": "2026-06-19T06:22:34.300Z",
+  "localHour": 19,
   "observedMax": 14,
-  "obsCount": 29,
-  "lastObsTime": "2026-06-19T02:00:00.000Z"
+  "obsCount": 37,
+  "lastObsTime": "2026-06-19T06:00:00.000Z"
 }

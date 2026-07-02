@@ -3,9 +3,9 @@
   "name": "Chicago",
   "units": "e",
   "date": "2026-07-02",
-  "fetchedAt": "2026-07-02T07:55:57.011Z",
-  "localHour": 2,
+  "fetchedAt": "2026-07-02T10:48:53.440Z",
+  "localHour": 4,
   "observedMax": 83,
-  "obsCount": 3,
-  "lastObsTime": "2026-07-02T07:51:00.000Z"
+  "obsCount": 5,
+  "lastObsTime": "2026-07-02T09:51:00.000Z"
 }

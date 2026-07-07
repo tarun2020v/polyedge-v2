@@ -2,10 +2,10 @@
   "station": "RKSI",
   "name": "Seoul",
   "units": "m",
-  "date": "2026-07-06",
-  "fetchedAt": "2026-07-06T23:33:22.614Z",
-  "localHour": 23,
-  "observedMax": 28,
-  "obsCount": 48,
-  "lastObsTime": "2026-07-06T14:30:00.000Z"
+  "date": "2026-07-07",
+  "fetchedAt": "2026-07-07T01:21:46.970Z",
+  "localHour": 10,
+  "observedMax": 26,
+  "obsCount": 21,
+  "lastObsTime": "2026-07-07T01:00:00.000Z"
 }

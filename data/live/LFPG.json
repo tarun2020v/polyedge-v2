@@ -2,10 +2,10 @@
   "station": "LFPG",
   "name": "Paris",
   "units": "m",
-  "date": "2026-07-11",
-  "fetchedAt": "2026-07-11T23:00:51.227Z",
-  "localHour": 23,
-  "observedMax": 35,
-  "obsCount": 48,
-  "lastObsTime": "2026-07-11T21:30:00.000Z"
+  "date": "2026-07-12",
+  "fetchedAt": "2026-07-12T00:13:55.637Z",
+  "localHour": 1,
+  "observedMax": 27,
+  "obsCount": 4,
+  "lastObsTime": "2026-07-11T23:30:00.000Z"
 }

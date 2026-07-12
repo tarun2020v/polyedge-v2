@@ -3,7 +3,7 @@
   "name": "Miami",
   "units": "e",
   "utcOffset": -4,
-  "fetchedAt": "2026-05-13T04:49:25.869Z",
+  "fetchedAt": "2026-07-12T04:25:54.883Z",
   "days": 90,
   "rows": [
     {
@@ -12540,6 +12540,126 @@
       "localHour": 20,
       "runningMax": 91,
       "finalMax": 91,
+      "delta": 0
+    },
+    {
+      "date": "20260711",
+      "month": 7,
+      "localHour": 6,
+      "runningMax": 77,
+      "finalMax": 90,
+      "delta": 13
+    },
+    {
+      "date": "20260711",
+      "month": 7,
+      "localHour": 7,
+      "runningMax": 79,
+      "finalMax": 90,
+      "delta": 11
+    },
+    {
+      "date": "20260711",
+      "month": 7,
+      "localHour": 8,
+      "runningMax": 83,
+      "finalMax": 90,
+      "delta": 7
+    },
+    {
+      "date": "20260711",
+      "month": 7,
+      "localHour": 9,
+      "runningMax": 85,
+      "finalMax": 90,
+      "delta": 5
+    },
+    {
+      "date": "20260711",
+      "month": 7,
+      "localHour": 10,
+      "runningMax": 86,
+      "finalMax": 90,
+      "delta": 4
+    },
+    {
+      "date": "20260711",
+      "month": 7,
+      "localHour": 11,
+      "runningMax": 87,
+      "finalMax": 90,
+      "delta": 3
+    },
+    {
+      "date": "20260711",
+      "month": 7,
+      "localHour": 12,
+      "runningMax": 88,
+      "finalMax": 90,
+      "delta": 2
+    },
+    {
+      "date": "20260711",
+      "month": 7,
+      "localHour": 13,
+      "runningMax": 90,
+      "finalMax": 90,
+      "delta": 0
+    },
+    {
+      "date": "20260711",
+      "month": 7,
+      "localHour": 14,
+      "runningMax": 90,
+      "finalMax": 90,
+      "delta": 0
+    },
+    {
+      "date": "20260711",
+      "month": 7,
+      "localHour": 15,
+      "runningMax": 90,
+      "finalMax": 90,
+      "delta": 0
+    },
+    {
+      "date": "20260711",
+      "month": 7,
+      "localHour": 16,
+      "runningMax": 90,
+      "finalMax": 90,
+      "delta": 0
+    },
+    {
+      "date": "20260711",
+      "month": 7,
+      "localHour": 17,
+      "runningMax": 90,
+      "finalMax": 90,
+      "delta": 0
+    },
+    {
+      "date": "20260711",
+      "month": 7,
+      "localHour": 18,
+      "runningMax": 90,
+      "finalMax": 90,
+      "delta": 0
+    },
+    {
+      "date": "20260711",
+      "month": 7,
+      "localHour": 19,
+      "runningMax": 90,
+      "finalMax": 90,
+      "delta": 0
+    },
+    {
+      "date": "20260711",
+      "month": 7,
+      "localHour": 20,
+      "runningMax": 90,
+      "finalMax": 90,
       "delta": 0
     }
   ]

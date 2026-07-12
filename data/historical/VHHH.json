@@ -3,7 +3,7 @@
   "name": "Hong Kong",
   "units": "m",
   "utcOffset": 8,
-  "fetchedAt": "2026-05-13T04:49:30.319Z",
+  "fetchedAt": "2026-07-12T04:25:59.041Z",
   "days": 90,
   "rows": [
     {
@@ -22548,6 +22548,246 @@
       "localHour": 20,
       "runningMax": 31,
       "finalMax": 31,
+      "delta": 0
+    },
+    {
+      "date": "20260711",
+      "month": 7,
+      "localHour": 6,
+      "runningMax": 28,
+      "finalMax": 34,
+      "delta": 6
+    },
+    {
+      "date": "20260711",
+      "month": 7,
+      "localHour": 6,
+      "runningMax": 28,
+      "finalMax": 34,
+      "delta": 6
+    },
+    {
+      "date": "20260711",
+      "month": 7,
+      "localHour": 7,
+      "runningMax": 29,
+      "finalMax": 34,
+      "delta": 5
+    },
+    {
+      "date": "20260711",
+      "month": 7,
+      "localHour": 7,
+      "runningMax": 29,
+      "finalMax": 34,
+      "delta": 5
+    },
+    {
+      "date": "20260711",
+      "month": 7,
+      "localHour": 8,
+      "runningMax": 30,
+      "finalMax": 34,
+      "delta": 4
+    },
+    {
+      "date": "20260711",
+      "month": 7,
+      "localHour": 8,
+      "runningMax": 30,
+      "finalMax": 34,
+      "delta": 4
+    },
+    {
+      "date": "20260711",
+      "month": 7,
+      "localHour": 9,
+      "runningMax": 30,
+      "finalMax": 34,
+      "delta": 4
+    },
+    {
+      "date": "20260711",
+      "month": 7,
+      "localHour": 9,
+      "runningMax": 30,
+      "finalMax": 34,
+      "delta": 4
+    },
+    {
+      "date": "20260711",
+      "month": 7,
+      "localHour": 10,
+      "runningMax": 30,
+      "finalMax": 34,
+      "delta": 4
+    },
+    {
+      "date": "20260711",
+      "month": 7,
+      "localHour": 10,
+      "runningMax": 30,
+      "finalMax": 34,
+      "delta": 4
+    },
+    {
+      "date": "20260711",
+      "month": 7,
+      "localHour": 11,
+      "runningMax": 31,
+      "finalMax": 34,
+      "delta": 3
+    },
+    {
+      "date": "20260711",
+      "month": 7,
+      "localHour": 11,
+      "runningMax": 31,
+      "finalMax": 34,
+      "delta": 3
+    },
+    {
+      "date": "20260711",
+      "month": 7,
+      "localHour": 12,
+      "runningMax": 31,
+      "finalMax": 34,
+      "delta": 3
+    },
+    {
+      "date": "20260711",
+      "month": 7,
+      "localHour": 12,
+      "runningMax": 32,
+      "finalMax": 34,
+      "delta": 2
+    },
+    {
+      "date": "20260711",
+      "month": 7,
+      "localHour": 13,
+      "runningMax": 33,
+      "finalMax": 34,
+      "delta": 1
+    },
+    {
+      "date": "20260711",
+      "month": 7,
+      "localHour": 13,
+      "runningMax": 33,
+      "finalMax": 34,
+      "delta": 1
+    },
+    {
+      "date": "20260711",
+      "month": 7,
+      "localHour": 14,
+      "runningMax": 34,
+      "finalMax": 34,
+      "delta": 0
+    },
+    {
+      "date": "20260711",
+      "month": 7,
+      "localHour": 14,
+      "runningMax": 34,
+      "finalMax": 34,
+      "delta": 0
+    },
+    {
+      "date": "20260711",
+      "month": 7,
+      "localHour": 15,
+      "runningMax": 34,
+      "finalMax": 34,
+      "delta": 0
+    },
+    {
+      "date": "20260711",
+      "month": 7,
+      "localHour": 15,
+      "runningMax": 34,
+      "finalMax": 34,
+      "delta": 0
+    },
+    {
+      "date": "20260711",
+      "month": 7,
+      "localHour": 16,
+      "runningMax": 34,
+      "finalMax": 34,
+      "delta": 0
+    },
+    {
+      "date": "20260711",
+      "month": 7,
+      "localHour": 16,
+      "runningMax": 34,
+      "finalMax": 34,
+      "delta": 0
+    },
+    {
+      "date": "20260711",
+      "month": 7,
+      "localHour": 17,
+      "runningMax": 34,
+      "finalMax": 34,
+      "delta": 0
+    },
+    {
+      "date": "20260711",
+      "month": 7,
+      "localHour": 17,
+      "runningMax": 34,
+      "finalMax": 34,
+      "delta": 0
+    },
+    {
+      "date": "20260711",
+      "month": 7,
+      "localHour": 18,
+      "runningMax": 34,
+      "finalMax": 34,
+      "delta": 0
+    },
+    {
+      "date": "20260711",
+      "month": 7,
+      "localHour": 18,
+      "runningMax": 34,
+      "finalMax": 34,
+      "delta": 0
+    },
+    {
+      "date": "20260711",
+      "month": 7,
+      "localHour": 19,
+      "runningMax": 34,
+      "finalMax": 34,
+      "delta": 0
+    },
+    {
+      "date": "20260711",
+      "month": 7,
+      "localHour": 19,
+      "runningMax": 34,
+      "finalMax": 34,
+      "delta": 0
+    },
+    {
+      "date": "20260711",
+      "month": 7,
+      "localHour": 20,
+      "runningMax": 34,
+      "finalMax": 34,
+      "delta": 0
+    },
+    {
+      "date": "20260711",
+      "month": 7,
+      "localHour": 20,
+      "runningMax": 34,
+      "finalMax": 34,
       "delta": 0
     }
   ]

@@ -3,9 +3,9 @@
   "name": "Hong Kong",
   "units": "m",
   "date": "2026-07-15",
-  "fetchedAt": "2026-07-15T14:24:53.436Z",
-  "localHour": 22,
+  "fetchedAt": "2026-07-15T16:07:18.262Z",
+  "localHour": 23,
   "observedMax": 31,
-  "obsCount": 64,
-  "lastObsTime": "2026-07-15T14:00:00.000Z"
+  "obsCount": 70,
+  "lastObsTime": "2026-07-15T15:43:00.000Z"
 }

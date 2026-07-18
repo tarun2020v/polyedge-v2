@@ -2,10 +2,10 @@
   "station": "KMIA",
   "name": "Miami",
   "units": "e",
-  "date": "2026-07-17",
-  "fetchedAt": "2026-07-17T23:11:16.288Z",
-  "localHour": 18,
-  "observedMax": 92,
-  "obsCount": 21,
-  "lastObsTime": "2026-07-17T22:53:00.000Z"
+  "date": "2026-07-18",
+  "fetchedAt": "2026-07-18T05:52:09.260Z",
+  "localHour": 0,
+  "observedMax": 83,
+  "obsCount": 1,
+  "lastObsTime": "2026-07-18T04:53:00.000Z"
 }

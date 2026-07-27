@@ -2,10 +2,10 @@
   "station": "KATL",
   "name": "Atlanta",
   "units": "e",
-  "date": "2026-07-26",
-  "fetchedAt": "2026-07-26T22:40:24.272Z",
-  "localHour": 17,
-  "observedMax": 91,
-  "obsCount": 29,
-  "lastObsTime": "2026-07-26T21:52:00.000Z"
+  "date": "2026-07-27",
+  "fetchedAt": "2026-07-27T07:57:02.041Z",
+  "localHour": 3,
+  "observedMax": 80,
+  "obsCount": 4,
+  "lastObsTime": "2026-07-27T07:52:00.000Z"
 }

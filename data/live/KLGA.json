@@ -3,9 +3,9 @@
   "name": "NYC",
   "units": "e",
   "date": "2026-07-29",
-  "fetchedAt": "2026-07-29T16:08:18.346Z",
-  "localHour": 11,
-  "observedMax": 77,
-  "obsCount": 20,
-  "lastObsTime": "2026-07-29T15:51:00.000Z"
+  "fetchedAt": "2026-07-29T17:42:31.546Z",
+  "localHour": 13,
+  "observedMax": 79,
+  "obsCount": 24,
+  "lastObsTime": "2026-07-29T17:26:00.000Z"
 }

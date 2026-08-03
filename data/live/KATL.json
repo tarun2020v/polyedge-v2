@@ -3,9 +3,9 @@
   "name": "Atlanta",
   "units": "e",
   "date": "2026-08-03",
-  "fetchedAt": "2026-08-03T13:43:56.021Z",
-  "localHour": 8,
-  "observedMax": 75,
-  "obsCount": 9,
-  "lastObsTime": "2026-08-03T12:52:00.000Z"
+  "fetchedAt": "2026-08-03T16:30:10.273Z",
+  "localHour": 11,
+  "observedMax": 81,
+  "obsCount": 12,
+  "lastObsTime": "2026-08-03T15:52:00.000Z"
 }

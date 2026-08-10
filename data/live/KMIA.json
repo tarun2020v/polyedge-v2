@@ -3,9 +3,9 @@
   "name": "Miami",
   "units": "e",
   "date": "2026-08-10",
-  "fetchedAt": "2026-08-10T21:24:41.333Z",
-  "localHour": 15,
+  "fetchedAt": "2026-08-10T22:18:09.451Z",
+  "localHour": 17,
   "observedMax": 92,
-  "obsCount": 17,
-  "lastObsTime": "2026-08-10T19:53:00.000Z"
+  "obsCount": 19,
+  "lastObsTime": "2026-08-10T21:53:00.000Z"
 }

@@ -3,7 +3,7 @@
   "name": "Dallas",
   "units": "e",
   "utcOffset": -5,
-  "fetchedAt": "2026-08-03T04:31:13.327Z",
+  "fetchedAt": "2026-08-26T02:24:42.375Z",
   "days": 90,
   "rows": [
     {
@@ -12516,6 +12516,126 @@
       "localHour": 20,
       "runningMax": 95,
       "finalMax": 95,
+      "delta": 0
+    },
+    {
+      "date": "20260825",
+      "month": 8,
+      "localHour": 6,
+      "runningMax": 86,
+      "finalMax": 100,
+      "delta": 14
+    },
+    {
+      "date": "20260825",
+      "month": 8,
+      "localHour": 7,
+      "runningMax": 86,
+      "finalMax": 100,
+      "delta": 14
+    },
+    {
+      "date": "20260825",
+      "month": 8,
+      "localHour": 8,
+      "runningMax": 86,
+      "finalMax": 100,
+      "delta": 14
+    },
+    {
+      "date": "20260825",
+      "month": 8,
+      "localHour": 9,
+      "runningMax": 86,
+      "finalMax": 100,
+      "delta": 14
+    },
+    {
+      "date": "20260825",
+      "month": 8,
+      "localHour": 10,
+      "runningMax": 87,
+      "finalMax": 100,
+      "delta": 13
+    },
+    {
+      "date": "20260825",
+      "month": 8,
+      "localHour": 11,
+      "runningMax": 90,
+      "finalMax": 100,
+      "delta": 10
+    },
+    {
+      "date": "20260825",
+      "month": 8,
+      "localHour": 12,
+      "runningMax": 93,
+      "finalMax": 100,
+      "delta": 7
+    },
+    {
+      "date": "20260825",
+      "month": 8,
+      "localHour": 13,
+      "runningMax": 96,
+      "finalMax": 100,
+      "delta": 4
+    },
+    {
+      "date": "20260825",
+      "month": 8,
+      "localHour": 14,
+      "runningMax": 96,
+      "finalMax": 100,
+      "delta": 4
+    },
+    {
+      "date": "20260825",
+      "month": 8,
+      "localHour": 15,
+      "runningMax": 100,
+      "finalMax": 100,
+      "delta": 0
+    },
+    {
+      "date": "20260825",
+      "month": 8,
+      "localHour": 16,
+      "runningMax": 100,
+      "finalMax": 100,
+      "delta": 0
+    },
+    {
+      "date": "20260825",
+      "month": 8,
+      "localHour": 17,
+      "runningMax": 100,
+      "finalMax": 100,
+      "delta": 0
+    },
+    {
+      "date": "20260825",
+      "month": 8,
+      "localHour": 18,
+      "runningMax": 100,
+      "finalMax": 100,
+      "delta": 0
+    },
+    {
+      "date": "20260825",
+      "month": 8,
+      "localHour": 19,
+      "runningMax": 100,
+      "finalMax": 100,
+      "delta": 0
+    },
+    {
+      "date": "20260825",
+      "month": 8,
+      "localHour": 20,
+      "runningMax": 100,
+      "finalMax": 100,
       "delta": 0
     }
   ]

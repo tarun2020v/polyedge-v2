@@ -2,10 +2,10 @@
   "station": "NZWN",
   "name": "Wellington",
   "units": "m",
-  "date": "2026-08-27",
-  "fetchedAt": "2026-08-27T14:45:25.989Z",
-  "localHour": 0,
-  "observedMax": 14,
-  "obsCount": 48,
-  "lastObsTime": "2026-08-27T11:30:00.000Z"
+  "date": "2026-08-28",
+  "fetchedAt": "2026-08-28T00:19:24.438Z",
+  "localHour": 13,
+  "observedMax": 15,
+  "obsCount": 25,
+  "lastObsTime": "2026-08-28T00:00:00.000Z"
 }

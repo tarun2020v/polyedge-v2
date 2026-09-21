@@ -2,10 +2,10 @@
   "station": "KLGA",
   "name": "NYC",
   "units": "e",
-  "date": "2026-09-20",
-  "fetchedAt": "2026-09-20T22:19:00.581Z",
-  "localHour": 17,
-  "observedMax": 70,
-  "obsCount": 26,
-  "lastObsTime": "2026-09-20T21:51:00.000Z"
+  "date": "2026-09-21",
+  "fetchedAt": "2026-09-21T05:11:13.513Z",
+  "localHour": 0,
+  "observedMax": 68,
+  "obsCount": 1,
+  "lastObsTime": "2026-09-21T04:51:00.000Z"
 }

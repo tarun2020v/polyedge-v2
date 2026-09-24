@@ -3,7 +3,7 @@
   "name": "Chicago",
   "units": "e",
   "utcOffset": -5,
-  "fetchedAt": "2026-09-04T05:37:28.082Z",
+  "fetchedAt": "2026-09-24T05:55:21.064Z",
   "days": 90,
   "rows": [
     {
@@ -16100,6 +16100,166 @@
       "localHour": 20,
       "runningMax": 90,
       "finalMax": 90,
+      "delta": 0
+    },
+    {
+      "date": "20260923",
+      "month": 9,
+      "localHour": 6,
+      "runningMax": 60,
+      "finalMax": 68,
+      "delta": 8
+    },
+    {
+      "date": "20260923",
+      "month": 9,
+      "localHour": 7,
+      "runningMax": 61,
+      "finalMax": 68,
+      "delta": 7
+    },
+    {
+      "date": "20260923",
+      "month": 9,
+      "localHour": 8,
+      "runningMax": 61,
+      "finalMax": 68,
+      "delta": 7
+    },
+    {
+      "date": "20260923",
+      "month": 9,
+      "localHour": 9,
+      "runningMax": 62,
+      "finalMax": 68,
+      "delta": 6
+    },
+    {
+      "date": "20260923",
+      "month": 9,
+      "localHour": 9,
+      "runningMax": 63,
+      "finalMax": 68,
+      "delta": 5
+    },
+    {
+      "date": "20260923",
+      "month": 9,
+      "localHour": 9,
+      "runningMax": 63,
+      "finalMax": 68,
+      "delta": 5
+    },
+    {
+      "date": "20260923",
+      "month": 9,
+      "localHour": 10,
+      "runningMax": 64,
+      "finalMax": 68,
+      "delta": 4
+    },
+    {
+      "date": "20260923",
+      "month": 9,
+      "localHour": 10,
+      "runningMax": 64,
+      "finalMax": 68,
+      "delta": 4
+    },
+    {
+      "date": "20260923",
+      "month": 9,
+      "localHour": 11,
+      "runningMax": 66,
+      "finalMax": 68,
+      "delta": 2
+    },
+    {
+      "date": "20260923",
+      "month": 9,
+      "localHour": 12,
+      "runningMax": 66,
+      "finalMax": 68,
+      "delta": 2
+    },
+    {
+      "date": "20260923",
+      "month": 9,
+      "localHour": 13,
+      "runningMax": 68,
+      "finalMax": 68,
+      "delta": 0
+    },
+    {
+      "date": "20260923",
+      "month": 9,
+      "localHour": 14,
+      "runningMax": 68,
+      "finalMax": 68,
+      "delta": 0
+    },
+    {
+      "date": "20260923",
+      "month": 9,
+      "localHour": 15,
+      "runningMax": 68,
+      "finalMax": 68,
+      "delta": 0
+    },
+    {
+      "date": "20260923",
+      "month": 9,
+      "localHour": 16,
+      "runningMax": 68,
+      "finalMax": 68,
+      "delta": 0
+    },
+    {
+      "date": "20260923",
+      "month": 9,
+      "localHour": 16,
+      "runningMax": 68,
+      "finalMax": 68,
+      "delta": 0
+    },
+    {
+      "date": "20260923",
+      "month": 9,
+      "localHour": 17,
+      "runningMax": 68,
+      "finalMax": 68,
+      "delta": 0
+    },
+    {
+      "date": "20260923",
+      "month": 9,
+      "localHour": 18,
+      "runningMax": 68,
+      "finalMax": 68,
+      "delta": 0
+    },
+    {
+      "date": "20260923",
+      "month": 9,
+      "localHour": 18,
+      "runningMax": 68,
+      "finalMax": 68,
+      "delta": 0
+    },
+    {
+      "date": "20260923",
+      "month": 9,
+      "localHour": 19,
+      "runningMax": 68,
+      "finalMax": 68,
+      "delta": 0
+    },
+    {
+      "date": "20260923",
+      "month": 9,
+      "localHour": 20,
+      "runningMax": 68,
+      "finalMax": 68,
       "delta": 0
     }
   ]

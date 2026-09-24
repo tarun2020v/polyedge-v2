@@ -3,7 +3,7 @@
   "name": "NYC",
   "units": "e",
   "utcOffset": -4,
-  "fetchedAt": "2026-09-04T05:37:28.752Z",
+  "fetchedAt": "2026-09-24T05:55:21.707Z",
   "days": 90,
   "rows": [
     {
@@ -13548,6 +13548,134 @@
       "localHour": 20,
       "runningMax": 87,
       "finalMax": 87,
+      "delta": 0
+    },
+    {
+      "date": "20260923",
+      "month": 9,
+      "localHour": 6,
+      "runningMax": 58,
+      "finalMax": 70,
+      "delta": 12
+    },
+    {
+      "date": "20260923",
+      "month": 9,
+      "localHour": 7,
+      "runningMax": 58,
+      "finalMax": 70,
+      "delta": 12
+    },
+    {
+      "date": "20260923",
+      "month": 9,
+      "localHour": 7,
+      "runningMax": 60,
+      "finalMax": 70,
+      "delta": 10
+    },
+    {
+      "date": "20260923",
+      "month": 9,
+      "localHour": 8,
+      "runningMax": 62,
+      "finalMax": 70,
+      "delta": 8
+    },
+    {
+      "date": "20260923",
+      "month": 9,
+      "localHour": 9,
+      "runningMax": 63,
+      "finalMax": 70,
+      "delta": 7
+    },
+    {
+      "date": "20260923",
+      "month": 9,
+      "localHour": 10,
+      "runningMax": 63,
+      "finalMax": 70,
+      "delta": 7
+    },
+    {
+      "date": "20260923",
+      "month": 9,
+      "localHour": 11,
+      "runningMax": 65,
+      "finalMax": 70,
+      "delta": 5
+    },
+    {
+      "date": "20260923",
+      "month": 9,
+      "localHour": 12,
+      "runningMax": 65,
+      "finalMax": 70,
+      "delta": 5
+    },
+    {
+      "date": "20260923",
+      "month": 9,
+      "localHour": 13,
+      "runningMax": 68,
+      "finalMax": 70,
+      "delta": 2
+    },
+    {
+      "date": "20260923",
+      "month": 9,
+      "localHour": 14,
+      "runningMax": 68,
+      "finalMax": 70,
+      "delta": 2
+    },
+    {
+      "date": "20260923",
+      "month": 9,
+      "localHour": 15,
+      "runningMax": 70,
+      "finalMax": 70,
+      "delta": 0
+    },
+    {
+      "date": "20260923",
+      "month": 9,
+      "localHour": 16,
+      "runningMax": 70,
+      "finalMax": 70,
+      "delta": 0
+    },
+    {
+      "date": "20260923",
+      "month": 9,
+      "localHour": 17,
+      "runningMax": 70,
+      "finalMax": 70,
+      "delta": 0
+    },
+    {
+      "date": "20260923",
+      "month": 9,
+      "localHour": 18,
+      "runningMax": 70,
+      "finalMax": 70,
+      "delta": 0
+    },
+    {
+      "date": "20260923",
+      "month": 9,
+      "localHour": 19,
+      "runningMax": 70,
+      "finalMax": 70,
+      "delta": 0
+    },
+    {
+      "date": "20260923",
+      "month": 9,
+      "localHour": 20,
+      "runningMax": 70,
+      "finalMax": 70,
       "delta": 0
     }
   ]

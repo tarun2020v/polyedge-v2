@@ -2,10 +2,10 @@
   "station": "RJTT",
   "name": "Tokyo",
   "units": "m",
-  "date": "2026-09-26",
-  "fetchedAt": "2026-09-26T22:12:19.153Z",
-  "localHour": 23,
-  "observedMax": 23,
-  "obsCount": 48,
-  "lastObsTime": "2026-09-26T14:30:00.000Z"
+  "date": "2026-09-27",
+  "fetchedAt": "2026-09-27T00:42:13.352Z",
+  "localHour": 9,
+  "observedMax": 20,
+  "obsCount": 19,
+  "lastObsTime": "2026-09-27T00:00:00.000Z"
 }

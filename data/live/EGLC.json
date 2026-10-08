@@ -3,9 +3,9 @@
   "name": "London",
   "units": "m",
   "date": "2026-10-08",
-  "fetchedAt": "2026-10-08T07:04:53.263Z",
-  "localHour": 7,
-  "observedMax": 10,
-  "obsCount": 15,
-  "lastObsTime": "2026-10-08T06:20:00.000Z"
+  "fetchedAt": "2026-10-08T10:18:17.286Z",
+  "localHour": 10,
+  "observedMax": 11,
+  "obsCount": 22,
+  "lastObsTime": "2026-10-08T09:50:00.000Z"
 }

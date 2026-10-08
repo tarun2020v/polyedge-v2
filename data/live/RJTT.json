@@ -3,9 +3,9 @@
   "name": "Tokyo",
   "units": "m",
   "date": "2026-10-08",
-  "fetchedAt": "2026-10-08T07:04:53.748Z",
-  "localHour": 15,
+  "fetchedAt": "2026-10-08T10:18:17.791Z",
+  "localHour": 19,
   "observedMax": 23,
-  "obsCount": 31,
-  "lastObsTime": "2026-10-08T06:00:00.000Z"
+  "obsCount": 39,
+  "lastObsTime": "2026-10-08T10:00:00.000Z"
 }

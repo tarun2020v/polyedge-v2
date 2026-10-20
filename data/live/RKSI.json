@@ -3,9 +3,9 @@
   "name": "Seoul",
   "units": "m",
   "date": "2026-10-20",
-  "fetchedAt": "2026-10-20T09:37:13.395Z",
-  "localHour": 18,
+  "fetchedAt": "2026-10-20T14:28:59.074Z",
+  "localHour": 23,
   "observedMax": 20,
-  "obsCount": 38,
-  "lastObsTime": "2026-10-20T09:30:00.000Z"
+  "obsCount": 47,
+  "lastObsTime": "2026-10-20T14:00:00.000Z"
 }
